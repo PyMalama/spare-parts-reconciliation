@@ -4,6 +4,7 @@ Python script for automated part number reconciliation using OCR, PDF parsing, a
 # 🛠️ Spare Part Match with OCR and Excel Automation
 
 This project demonstrates how Python can be used to automate spare part tracking by extracting part numbers from scanned PDF manuals and updating a structured Excel file. It uses **OCR**, **fuzzy matching**, and **data validation** to identify known and superseded parts and enhance records with machine name tagging.
+
 Open the [Colab notebook]https://colab.research.google.com/drive/1yVDm_NJnxwi-mBz9CuzxXCyFSQNwNOqJ?usp=sharing.
 
 ---
